@@ -2,4 +2,11 @@
  
 development branch start
 
-dev 1
+dev 1 
+
+merge feature branch and remove conflict 
+
+f1
+
+f2
+
