@@ -2,6 +2,17 @@
  
 development branch start
 
-hotfix
+
+hotfix and dev now merge
 
 h1
+
+dev 1 
+
+merge feature branch and remove conflict 
+
+f1
+
+f2
+
+
